@@ -7,4 +7,5 @@ Desde então, todos os que inventaram mais uma primitiva de sincronização sent
 O código mostrado aqui foi retirado do livro Sistemas Operacionais Modernos 3ª edição, com modificações para mostrar momentos onde há dois filosofos comendo simultâneamente.
 
 compile com usando: $ gcc -o filosofos filosofos.c -pthread
+
 execute com: $ ./filosofos
